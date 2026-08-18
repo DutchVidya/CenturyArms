@@ -1,13 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    ```html
-<meta property="og:title" content="CLASSIFIED // CAG STRATEGIC DOSSIER">
-<meta property="og:description" content="Pentagon & CAG Intelligence File regarding Altis operations and US domestic authorization.">
-<meta property="og:theme-color" content="#f59e0b">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Primary Meta Tags -->
     <title>CLASSIFIED // CENTURY ARMS GROUP DOSSIER</title>
+    <meta name="title" content="CLASSIFIED // CENTURY ARMS GROUP DOSSIER">
+    <meta name="description" content="Pentagon & CAG Intelligence File regarding 2035 Altis operations, C4ISR modernization, and US domestic security authorization.">
+
+    <!-- Open Graph / Discord / Facebook Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://centuryarmsgroup.com/dossier">
+    <meta property="og:title" content="CLASSIFIED // CENTURY ARMS GROUP DOSSIER">
+    <meta property="og:description" content="Pentagon & CAG Intelligence File regarding Altis operations, C4ISR drone integration, and US domestic security authorization.">
+    <meta property="og:image" content="https://centuryarmsgroup.com/images/dossier_preview.jpg">
+    <meta property="og:theme-color" content="#f59e0b">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://centuryarmsgroup.com/dossier">
+    <meta property="twitter:title" content="CLASSIFIED // CENTURY ARMS GROUP DOSSIER">
+    <meta property="twitter:description" content="Declassified Pentagon briefing on Century Arms Group domestic authorization, Altis combat logs, and podcast testimonies.">
+    <meta property="twitter:image" content="https://centuryarmsgroup.com/images/dossier_preview.jpg">
+
     <style>
         :root {
             --bg-color: #0b0e14;
@@ -123,7 +139,7 @@
 
         /* Content Area */
         .content-area {
-            padding: 30px;;
+            padding: 30px;
         }
 
         .tab-content {
@@ -256,7 +272,6 @@
             color: var(--text-dim);
         }
 
-        /* Responsive Adjustments */
         @media (max-width: 768px) {
             header {
                 flex-direction: column;
@@ -276,9 +291,9 @@
     <header>
         <div class="header-title">
             <h1>CENTURY ARMS GROUP // STRATEGIC DOSSIER</h1>
-            <p>FOR IMMEDIATE RELEASE // CLASSIFIED TOP SECRET //</p>
+            <p>DEFENSE INTELLIGENCE AGENCY // SPECIAL HANDLING // NOFORN</p>
         </div>
-        <div class="security-stamp">EYES ONLY // CTRG PERSONNEL ONLY</div>
+        <div class="security-stamp">TOP SECRET // LEVEL 4 AUTHORIZED</div>
     </header>
 
     <!-- Navigation Tabs -->
@@ -315,7 +330,7 @@
             <div class="card red-border">
                 <h3>Global Infantry Standardization (Remington Partnership)</h3>
                 <p style="font-size: 0.9rem; margin-top: 5px;">
-                    Exclusive alliance with <b>Remington</b> to standardize all global CAG operators on modernized <b>ACR (Adaptive Combat Rifle)</b> modular platforms across various configurations and calibers.
+                    Exclusive alliance with <b>Remington</b> to standardize all global CAG operators on modernized <b>ACR (Adaptive Combat Rifle)</b> modular platforms across 10.5" CQB, 14.5" Standard, and 16.5" DMR configurations.
                 </p>
             </div>
         </div>
@@ -332,7 +347,7 @@
             <div class="transcript-box">
                 <span class="speaker">FOR IMMEDIATE RELEASE — CAG COMMUNICATIONS DIRECTORATE</span>
                 <p style="margin-top: 10px;">
-                    "Securing designated US Security Partner status reflects the trust federal authorities place in our operational discipline," said the CEO of Century Arms Group. "By pairing domestic operational authorization with total armor divestment, autonomous UAV networks, and Remington’s ACR rifle, Century Arms is defining the future of rapid, high-tech sovereign defense."
+                    "Securing designated US Security Partner status reflects the trust federal authorities place in our operational discipline," said Niall "Dutch" Mulholland, CEO of Century Arms Group. "By pairing domestic operational authorization with total armor divestment, autonomous UAV networks, and Remington’s ACR rifle, Century Arms is defining the future of rapid, high-tech sovereign defense."
                 </p>
             </div>
         </div>
@@ -360,8 +375,7 @@
 
         <!-- TAB 4: PODCAST TRANSCRIPTS -->
         <div id="podcasts" class="tab-content">
-            <div class="section-header">// MEDIA PERSPECTIVES: GEOPOLITIKA VS. THE TACTICAL EDGE</div>
-            
+            <div class="section-header">// MEDIA PERSPECTIVES: THE TACTICAL EDGE</div>
             <div class="transcript-box">
                 <span style="color: var(--text-dim); font-size: 0.8rem;">[EXTRACT // THE TACTICAL EDGE EP. 315]</span>
                 
